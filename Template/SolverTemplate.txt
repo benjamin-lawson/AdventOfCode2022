@@ -1,0 +1,6 @@
+class Solver:
+	def solve_part_1(self, data, *args, **kwargs): # data is the raw lines from the file
+		self.test = kwargs['test_data'] if 'test_data' in kwargs else False
+	
+	def solve_part_2(self, data, *args, **kwargs):
+		self.test = kwargs['test_data'] if 'test_data' in kwargs else False
