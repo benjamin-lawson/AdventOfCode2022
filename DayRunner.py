@@ -1,6 +1,7 @@
 from DataLoader import DataLoader
 import sys
 import importlib
+import traceback
 
 
 class DayRunner:
@@ -12,21 +13,32 @@ class DayRunner:
 		print('===== Test Data =====')
 		test_data = DataLoader.LoadTestData(self.day_dir)
 		print('Part 1')
-		print(self.solver.solve_part_1(test_data, test_data=True))
+		try:
+			print(self.solver.solve_part_1(test_data, test_data=True))
+		except:
+			traceback.print_exc()
 		
 		print('Part 2')
-		print(self.solver.solve_part_2(test_data, test_data=True))
+		try:
+			print(self.solver.solve_part_2(test_data, test_data=True))
+		except:
+			traceback.print_exc()
 		print('')
 		
 	def RunData(self):
 		print('===== Real Data =====')
 		data = DataLoader.LoadData(self.day_dir)
 		print('Part 1')
-		print(self.solver.solve_part_1(data, test_data=False))
+		try:
+			print(self.solver.solve_part_1(data, test_data=False))
+		except:
+			traceback.print_exc()
 		
 		print('Part 2')
-		print(self.solver.solve_part_2(data, test_data=False))
-		
+		try:
+			print(self.solver.solve_part_2(data, test_data=False))
+		except:
+			traceback.print_exc()
 		print('')
 		
 def main():
