@@ -14,6 +14,7 @@ I'm challenging myself to complete the [Advent of Code 2022](https://adventofcod
 | 8   | [Day 8](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day8) | ⭐              | ✔️      | ✔️      |
 | 9   | [Day 9](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day9) | ⭐⭐⭐⭐       | ✔️      | ✔️      |
 | 10   | [Day 10](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day10) | ⭐           | ✔️      | ✔️      |
+| 11   | [Day 11](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day11) | ⭐⭐⭐          | ✔️      | ✔️      |
 
 ## DayRunner
 The `DayRunner` class makes it easy to run my solutions without having to manually provide the python file for the solution or the data needed to load. The `DayRunner` can be called using the following syntax:
