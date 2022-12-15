@@ -4,14 +4,15 @@ I'm challenging myself to complete the [Advent of Code 2022](https://adventofcod
 ## Days
 | Day | Repo Link                                                                   | Difficulty (1-5) | Part 1 | Part 2 |
 |-----|-----------------------------------------------------------------------------|------------------|--------|--------|
-| 1   | [Day 1](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day1) | ⭐                | ✔️      | ✔️      |
-| 2   | [Day 2](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day2) | ⭐                | ✔️      | ✔️      |
-| 3   | [Day 3](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day3) | ⭐                | ✔️      | ✔️      |
-| 4   | [Day 4](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day4) | ⭐                | ✔️      | ✔️      |
-| 5   | [Day 5](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day5) | ⭐⭐               | ✔️      | ✔️      |
-| 6   | [Day 6](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day6) | ⭐                | ✔️      | ✔️      |
-| 7   | [Day 7](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day7) | ⭐⭐⭐              | ✔️      | ✔️      |
+| 1   | [Day 1](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day1) | ⭐              | ✔️      | ✔️      |
+| 2   | [Day 2](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day2) | ⭐              | ✔️      | ✔️      |
+| 3   | [Day 3](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day3) | ⭐              | ✔️      | ✔️      |
+| 4   | [Day 4](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day4) | ⭐              | ✔️      | ✔️      |
+| 5   | [Day 5](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day5) | ⭐⭐            | ✔️      | ✔️      |
+| 6   | [Day 6](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day6) | ⭐              | ✔️      | ✔️      |
+| 7   | [Day 7](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day7) | ⭐⭐⭐         | ✔️      | ✔️      |
 | 8   | [Day 8](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day8) | ⭐              | ✔️      | ✔️      |
+| 9   | [Day 9](https://github.com/benjamin-lawson/AdventOfCode2022/tree/main/Day9) | ⭐⭐⭐⭐       | ✔️      | ✔️      |
 
 ## DayRunner
 The `DayRunner` class makes it easy to run my solutions without having to manually provide the python file for the solution or the data needed to load. The `DayRunner` can be called using the following syntax:
